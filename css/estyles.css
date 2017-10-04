@@ -1,0 +1,91 @@
+* {
+	padding:0;
+	margin: 0px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+    box-sizing: border-box;
+    height: auto;
+}
+ 
+
+.sect1{
+    background:url(/imagen/rebelion.jpg);
+    background-size:cover;
+    height: 700px;
+    
+  
+}
+
+
+
+.sect2{
+    background:url(/imagen/tishikawa2.jpg);
+    background-size:cover;
+    height: 650px;
+    
+   
+ 
+}
+
+.sect3{
+    background-color: rgb(252, 252, 252); 
+    height: 700px;
+}
+
+#contraste1{
+    position: absolute;
+    background-color: rgba(248, 240, 240, 0.32) ;
+    height: 400px;
+    width: 550px;
+
+    margin: 390px;
+    top: -250px;
+    
+}
+
+#contraste2{
+    position: absolute;
+    background-color: rgba(36, 3, 3, 0.41) ;
+    height: 400px;
+    width: 550px;
+
+    margin: 390px;
+    top: -250px;
+ 
+    
+}
+
+#centro{
+        margin: 150px;
+        top: -35%;
+
+    }
+
+.set2{
+        font-family: 'Berkshire Swash', cursive;
+    }
+
+.set3{
+    color:#E2D3D3 ;
+    font-family: 'Poiret One', cursive;
+}
+.set4{
+    font-family: 'Berkshire Swash', cursive;
+    font-family: 'Julius Sans One', sans-serif;
+    
+}
+.set5{
+    font-family: 'Leckerli One', cursive;
+    font-family: 'Galada', cursive;
+}
+.set6{
+    font-family: 'Rye', cursive;
+}
+
+
+#chart{
+    height: 350px;
+    width: 350px;
+    margin: 100px;
+  
+}
